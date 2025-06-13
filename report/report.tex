@@ -167,10 +167,7 @@ I first add a running total:
 \begin{center}
 \begin{minipage}{0.9\linewidth}
 \begin{verbatim}
-preg_table["Cumulative Pregnant"] = preg_table["Pregnant"].cumsum()
-median_cycle = preg_table.loc[
-    preg_table["Cumulative Pregnant"] >= len(df)/2, "n_cycle"
-].iloc[0]
+preg_table.loc[preg_table["Cumulative Pregnant"] < len(df)/2].index[-1]
 \end{verbatim}
 \end{minipage}
 \end{center}
