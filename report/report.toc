@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Data Exploration}{2}{section.2}%
+\contentsline {section}{\numberline {3}Analysis}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Question 1: Chance of Conceiving Within 13 Cycles}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Step 1 – My hand-built loop}{3}{subsubsection.3.1.1}%
+\contentsline {paragraph}{Assumptions.}{4}{section*.2}%
+\contentsline {subsubsection}{\numberline {3.1.2}Step 2 – Double-check with Kaplan–Meier}{4}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Question 2 – How long does it usually take to conceive?}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Step 1 – Simple count method}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Step 2 – Check with the survival curve}{5}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Why two methods?}{6}{section*.3}%
+\contentsline {subsection}{\numberline {3.3}Question 3: Which Factors Matter?}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Question 4: How would your approach change if you were to use diﬀerent techniques? What trade-oﬀs would you consider?}{9}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Conclusion}{10}{section.4}%

@@ -1,0 +1,20 @@
+,coef,std err,t,P>|t|,[0.025,0.975]
+const,    3.3979,    0.095,   35.775, 0.000,    3.211,    3.584
+age,    0.2700,    0.108,    2.508, 0.012,    0.059,    0.481
+bmi,   -0.0201,    0.096,   -0.210, 0.834,   -0.208,    0.168
+dedication,   -0.4675,    0.102,   -4.581, 0.000,   -0.668,   -0.267
+average_cycle_length,   -0.5307,    0.181,   -2.931, 0.003,   -0.886,   -0.175
+cycle_length_std,    0.4081,    0.198,    2.059, 0.040,    0.019,    0.797
+intercourse_frequency,   -0.3298,    0.102,   -3.232, 0.001,   -0.530,   -0.129
+education_High school,    0.2881,    0.363,    0.794, 0.428,   -0.424,    1.001
+education_PhD,    0.1784,    0.392,    0.455, 0.650,   -0.592,    0.949
+education_Trade/technical/vocational training,    0.2443,    0.350,    0.699, 0.485,   -0.442,    0.931
+education_University,    0.4102,    0.549,    0.748, 0.455,   -0.667,    1.488
+sleeping_pattern_Several times during the night,   -0.0299,    0.189,   -0.158, 0.874,   -0.400,    0.340
+sleeping_pattern_Shift worker,   -0.1111,    0.159,   -0.698, 0.486,   -0.424,    0.201
+sleeping_pattern_Wake same every day,    0.0071,    0.186,    0.038, 0.970,   -0.357,    0.371
+sleeping_pattern_Wake same every workday,    0.0900,    0.235,    0.384, 0.701,   -0.371,    0.551
+regular_cycle_True,   -0.1281,    0.127,   -1.005, 0.315,   -0.378,    0.122
+been_pregnant_before_Yes 3 times or more,   -0.1503,    0.099,   -1.523, 0.128,   -0.344,    0.043
+"been_pregnant_before_Yes, once",   -0.2636,    0.101,   -2.603, 0.009,   -0.462,   -0.065
+"been_pregnant_before_Yes, twice",   -0.3270,    0.099,   -3.291, 0.001,   -0.522,   -0.132
