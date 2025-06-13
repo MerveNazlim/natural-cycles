@@ -1,0 +1,9 @@
+# gitifgnore 
+src/__pycache__/
+report/*log
+report/*aux
+report/*out
+report/*toc
+report/*bbl
+report/*blg
+data/*/*.csv
